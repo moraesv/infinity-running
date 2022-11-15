@@ -1446,6 +1446,9 @@ MonoBehaviour:
   obstaculo1: {fileID: 8552901019017533310, guid: f26c4802677a5194091851e89ded1f3a, type: 3}
   obstaculo2: {fileID: 1026222739917526287, guid: 7f98c8176bfca7347b11006aac2c90ce, type: 3}
   moeda: {fileID: 1312406397237042184, guid: d505af85a431c4c4eb5c84dc515e2a48, type: 3}
+  moedaSuper: {fileID: 1694842811356176706, guid: c44c2fce245385f48abb32fb9afef354, type: 3}
+  moedaPlus: {fileID: 1312406397237042184, guid: cbe4660021b7d13489897533470ae0c7, type: 3}
+  pneu: {fileID: 5650347020423752389, guid: 464d803ba50922a4ab60ea57b5a04003, type: 3}
 --- !u!82 &1227049410
 AudioSource:
   m_ObjectHideFlags: 0
